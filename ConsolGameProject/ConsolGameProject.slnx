@@ -3,4 +3,5 @@
     <Platform Name="x64" />
   </Configurations>
   <Project Path="CraftEngine/CraftEngine.vcxproj" Id="6b6da85f-8d75-4acb-b648-e98ebf90baef" />
+  <Project Path="Game/Game.vcxproj" Id="eff4cf74-804b-47de-a3b0-2daf1695f2a8" />
 </Solution>

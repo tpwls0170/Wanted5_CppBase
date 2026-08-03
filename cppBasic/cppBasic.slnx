@@ -12,7 +12,9 @@
   <Project Path="ForwardDeclaration/ForwardDeclaration.vcxproj" Id="da18f430-92bd-4047-ba75-476af7ed2cd5" />
   <Project Path="OperatorOverloading/OperatorOverloading.vcxproj" Id="28ef7735-8268-46f6-a9bc-cccd6d31ca65" />
   <Project Path="Pointer/Pointer.vcxproj" Id="8bd53daa-4437-47c6-bb18-6254aafe13b8" />
+  <Project Path="RTTI/RTTI.vcxproj" Id="758fe032-7abe-4539-9dc5-2f0e63fffb83" />
   <Project Path="Static/Static.vcxproj" Id="5eddf985-0463-4033-9c8a-9ae37eb50288" />
   <Project Path="String/String.vcxproj" Id="000375a5-743d-473f-92e3-7dcc1283a1ff" />
+  <Project Path="Template/Template.vcxproj" Id="8e0bef7a-b085-4b5f-96f1-8c77e727d2dd" />
   <Project Path="Virtual/Virtual.vcxproj" Id="8f33ff23-58e1-473a-86bb-bf6a9a69f19b" />
 </Solution>

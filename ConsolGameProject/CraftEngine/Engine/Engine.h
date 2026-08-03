@@ -7,6 +7,7 @@ namespace Craft
 {
 	// 전방 선언.
 	class Level;
+	class Input;
 
 	// 메인 엔진 클래스.
 	// 엔진 루프를 제공.
@@ -84,5 +85,8 @@ namespace Craft
 
 		// 추가 요청된 레벨.
 		std::shared_ptr<Level> nextLevel;
+
+		// 입력 시스템 변수.
+		std::unique_ptr<Input> input;
 	};
 }

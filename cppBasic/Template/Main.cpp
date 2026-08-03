@@ -9,7 +9,7 @@ void Swap(T& a, T& b)
 }
 
 // 클래스 템플릿
-template<typename T>
+template<typename T, int Size = 10>
 class Data
 {
 public:
@@ -19,6 +19,8 @@ public:
 	}
 
 	T GetData() const { return data; }
+	void SetData(const T& newData) { data = newData; }
+	int GetSize() const {}
 private:
 	T data = 0;
 };
