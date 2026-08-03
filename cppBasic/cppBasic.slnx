@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Array/Array.vcxproj" Id="919dde02-53e0-4410-ae70-161e9efabcda" />
+  <Project Path="BuildProcess/BuildProcess.vcxproj" Id="398503bb-e2b4-4f4f-a564-7bc0a13e9990" />
+  <Project Path="Class/Class.vcxproj" Id="3425fb68-43b8-40f6-80e5-3818a9ecda59" />
+  <Project Path="ClassInheritance/ClassInheritance.vcxproj" Id="4dc7f469-282c-463b-b80b-ce5175853458" />
+  <Project Path="ConsoleIO/ConsoleIO.vcxproj" Id="2a1648de-7a17-4f1c-84d0-47c36ad75a24" />
+  <Project Path="ConsolInput/ConsolInput.vcxproj" Id="573dd06d-3a40-4638-8e20-51f63b7ffb59" />
+  <Project Path="CopyConstructor/CopyConstructor.vcxproj" Id="418bd1be-6ccc-4cd8-b459-132118af8683" />
+  <Project Path="ForwardDeclaration/ForwardDeclaration.vcxproj" Id="da18f430-92bd-4047-ba75-476af7ed2cd5" />
+  <Project Path="OperatorOverloading/OperatorOverloading.vcxproj" Id="28ef7735-8268-46f6-a9bc-cccd6d31ca65" />
+  <Project Path="Pointer/Pointer.vcxproj" Id="8bd53daa-4437-47c6-bb18-6254aafe13b8" />
+  <Project Path="Static/Static.vcxproj" Id="5eddf985-0463-4033-9c8a-9ae37eb50288" />
+  <Project Path="String/String.vcxproj" Id="000375a5-743d-473f-92e3-7dcc1283a1ff" />
+  <Project Path="Virtual/Virtual.vcxproj" Id="8f33ff23-58e1-473a-86bb-bf6a9a69f19b" />
+</Solution>

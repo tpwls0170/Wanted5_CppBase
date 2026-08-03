@@ -1,0 +1,49 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+.vscode/
+
+# =========================
+# Build Output
+# =========================
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+ipch/
+
+# =========================
+# Visual Studio User Files
+# =========================
+*.user
+*.suo
+*.userosscache
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
