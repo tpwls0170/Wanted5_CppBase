@@ -105,7 +105,7 @@ namespace Craft
 				// 추가/제거 요청된 액터 정리.
 				if (mainLevel)
 				{
-					mainLevel->ProcessAddAndDestoryActors();
+					mainLevel->ProcessAddAndDestroyActors();
 				}
 
 				// 입력 상태 저장.

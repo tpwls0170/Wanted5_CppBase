@@ -1,31 +1,35 @@
-﻿#include <Engine//Engine.h>
-#include "Actor.h"
+﻿#include "Actor.h"
+#include <Engine/Engine.h>
 
 namespace Craft
 {
 	Actor::Actor()
 	{}
+
 	Actor::~Actor()
 	{}
+
 	void Actor::BeginPlay()
-	{		
-		// 이벤트 처리했따고 설정
-		hasBeginPlay = true;
+	{
+		// 이벤트 처리했다고 설정.
+		hasBeganPlay = true;
 	}
+
 	void Actor::Tick(float deltaTime)
-	{
-	}
+	{}
+
 	void Actor::Draw()
+	{}
+
+	void Actor::Destroy()
 	{
-	}
-	void Actor::Destory()
-	{
-		// 삭제 예약 설정
+		// 삭제 예약 설정.
 		hasExpired = true;
 	}
-	void Craft::Actor::QuitGame()
+
+	void Actor::QuitGame()
 	{
-		// 엔진 종료 요청
+		// 엔진 종료 요청.
 		Engine::Get().Quit();
 	}
 }
