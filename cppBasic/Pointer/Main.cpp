@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 
-//â�ʸ� �Ѵٴ� ���� ���� �Ǵ� ����Ѵٴ� �ǹ�,
 void Release(int** t)
 {
 	if (t != nullptr)
@@ -10,7 +9,6 @@ void Release(int** t)
 	}
 }
 
-// �� ������ ���� ���� ��ȯ�ϴ� �c��
 void Swap(int* a, int* b)
 {
 	int temp = *a;
@@ -18,7 +16,6 @@ void Swap(int* a, int* b)
 	*b = temp;
 }
 
-//���۷����� Ȱ���� Swap �Լ�
 void SwapRaf(int& a, int& b)
 {
 	int temp = a;
@@ -30,7 +27,8 @@ int main()
 {
 	int numberA = 10;
 	int numberB = 20;
-	//Swap(&numberA, &numberB);
+
+	Swap(&numberA, &numberB);
 	SwapRaf(numberA, numberB);
 
 	int var = 8;

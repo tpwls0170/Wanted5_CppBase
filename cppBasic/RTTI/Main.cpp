@@ -29,7 +29,7 @@ int main()
 
 	if (player)
 	{
-		std::cout << "Player 형변황 성공\n";
+		std::cout << "Player 형변환 성공\n";
 	}
 
 	const type_info& typeInfo1 = typeid(*actor1);
