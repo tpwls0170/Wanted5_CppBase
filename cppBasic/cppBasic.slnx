@@ -9,6 +9,7 @@
   <Project Path="ConsoleIO/ConsoleIO.vcxproj" Id="2a1648de-7a17-4f1c-84d0-47c36ad75a24" />
   <Project Path="ConsolInput/ConsolInput.vcxproj" Id="573dd06d-3a40-4638-8e20-51f63b7ffb59" />
   <Project Path="CopyConstructor/CopyConstructor.vcxproj" Id="418bd1be-6ccc-4cd8-b459-132118af8683" />
+  <Project Path="FileIO_C/FileIO_C.vcxproj" Id="fb463d29-6fa3-4304-b9a4-c70160e446ec" />
   <Project Path="ForwardDeclaration/ForwardDeclaration.vcxproj" Id="da18f430-92bd-4047-ba75-476af7ed2cd5" />
   <Project Path="OperatorOverloading/OperatorOverloading.vcxproj" Id="28ef7735-8268-46f6-a9bc-cccd6d31ca65" />
   <Project Path="Pointer/Pointer.vcxproj" Id="8bd53daa-4437-47c6-bb18-6254aafe13b8" />
