@@ -11,12 +11,15 @@
   <Project Path="CopyConstructor/CopyConstructor.vcxproj" Id="418bd1be-6ccc-4cd8-b459-132118af8683" />
   <Project Path="FileIO_C/FileIO_C.vcxproj" Id="fb463d29-6fa3-4304-b9a4-c70160e446ec" />
   <Project Path="ForwardDeclaration/ForwardDeclaration.vcxproj" Id="da18f430-92bd-4047-ba75-476af7ed2cd5" />
+  <Project Path="FunctionPoint/FunctionPoint.vcxproj" Id="b36c4e41-c667-4d2d-b158-15ab62d16816" />
   <Project Path="OperatorOverloading/OperatorOverloading.vcxproj" Id="28ef7735-8268-46f6-a9bc-cccd6d31ca65" />
   <Project Path="Pointer/Pointer.vcxproj" Id="8bd53daa-4437-47c6-bb18-6254aafe13b8" />
   <Project Path="RTTI/RTTI.vcxproj" Id="758fe032-7abe-4539-9dc5-2f0e63fffb83" />
+  <Project Path="SharedPtr/SharedPtr.vcxproj" Id="cf1b06f8-8018-489c-a259-485ae62b2b0e" />
   <Project Path="Static/Static.vcxproj" Id="5eddf985-0463-4033-9c8a-9ae37eb50288" />
   <Project Path="String/String.vcxproj" Id="000375a5-743d-473f-92e3-7dcc1283a1ff" />
   <Project Path="Template/Template.vcxproj" Id="8e0bef7a-b085-4b5f-96f1-8c77e727d2dd" />
   <Project Path="UnniquePtr/UnniquePtr.vcxproj" Id="299a0cf0-bf3b-4483-ba88-d95cc5bfde9e" />
+  <Project Path="ValueCategory/ValueCategory.vcxproj" Id="7bbd8103-16a8-47e0-8f93-27426545aec3" />
   <Project Path="Virtual/Virtual.vcxproj" Id="8f33ff23-58e1-473a-86bb-bf6a9a69f19b" />
 </Solution>

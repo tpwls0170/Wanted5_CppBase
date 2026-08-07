@@ -13,8 +13,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cf1b06f8-8018-489c-a259-485ae62b2b0e}</ProjectGuid>
-    <RootNamespace>SharedPtr</RootNamespace>
+    <ProjectGuid>{b36c4e41-c667-4d2d-b158-15ab62d16816}</ProjectGuid>
+    <RootNamespace>FunctionPoint</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

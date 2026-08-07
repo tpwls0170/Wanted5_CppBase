@@ -75,6 +75,10 @@ int main()
 
 	// unique_ptr의 소유권을 다른 곳으로 넘기는 방법
 	// ValueCategory와 연결
+	// 이전을 다른 곳으로 한 이후로는 기존에 사용하던 player를 사용하면 안됨
 	std::unique_ptr<Player> otherPlayer = std::move(player);
+	// 이전을 한 뒤로는 기존 포인터를 리셋(초기화) 해주는게 좋음
+	player.reset();
+
 	std::cout << "END\n";
 }
